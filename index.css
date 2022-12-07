@@ -1,0 +1,324 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+   
+}
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Readex Pro', sans-serif;
+}
+nav{
+    margin-top: 30px;
+}
+
+.list{
+    display: flex;
+    }
+.list .list_iteam{
+   
+margin-left: 20px;
+}
+.carousel-inner{
+    border-radius: 20px;
+}
+.list .list_iteam a{
+    text-decoration: none;
+    color: #000;
+}
+.bigb{
+    padding-top: 50px;
+}
+.fa-solid{
+    padding-left: 10px;
+}
+.p1{
+ 
+    font-weight: 400;
+    font-size: 42px;
+    text-align: center;
+    color: #000000;
+}
+.p2{
+   
+font-weight: 400;
+font-size: 13px;
+color: #000000;
+text-align: center;
+padding-bottom: 59px;
+}
+.imtext{
+    font-weight: 400;
+    font-size: 22px;
+    color: #000000;
+    padding-top: 37px;
+}
+.imgtex{
+    font-weight: 400;
+    color: #4B4B4B;
+    font-size: 14px;
+    line-height: 17px;
+}
+.texe{
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+  padding-bottom: 28px;
+}
+.adiv{
+    padding-top: 78px ;
+}
+/* -------------------------------end------------------------- */
+
+.best{
+ 
+   
+    font-weight: 400;
+    font-size: 42px;
+    text-align: center;
+    color: #000000;
+    }
+.paragraf{
+ 
+font-weight: 400;
+font-size: 13px;
+text-align: center;
+color: #000000;
+}
+.card2{
+    text-align: center;
+    background: #F8F9FA;
+    border-radius: 16px;
+    margin-bottom: 75px;
+}
+.smart{
+   
+font-weight: 400;
+font-size: 13px;
+text-align: center;
+color: #000000;
+padding-top: 41px;
+/* padding-bottom: 10px; */
+}
+.latest{
+   
+font-weight: 400;
+font-size: 28px;
+text-align: center;
+color: #000000;
+padding-bottom: 30px;
+}
+.btn4{
+   
+font-weight: 400;
+font-size: 18px;
+text-align: center;
+/* text-transform: capitalize; */
+color: #000000;
+background: #F8F9FA;
+border-radius: 16px;
+padding: 14px 60px;
+margin-bottom: 30px;
+border: 1px solid #000000;
+border-radius: 200px;
+background: transparent;
+
+}
+
+.idea{
+  
+font-weight: 400;
+font-size: 42px;
+text-align: center;
+color: #000000;
+}
+.news{
+   
+    font-weight: 400;
+    font-size: 13px;
+    text-align: center;
+    color: #000000;
+    padding-bottom: 50px;
+}
+.wemake{
+ 
+font-weight: 400;
+font-size: 24px;
+line-height: 50px;
+/* or 125% */
+
+
+color: #000000;
+
+}
+.book{
+    padding-bottom: 73px;
+}
+.see{
+   
+font-weight: 400;
+font-size: 24px;
+/* text-transform: capitalize; */
+color: #000000;
+text-align: center;
+padding-bottom: 75px;
+
+}
+.looki{
+ 
+font-weight: 400;
+font-size: 42px;
+text-align: center;
+color: #000000;
+}
+.seach{
+    width: 100%;
+    background: #F8F9FA;
+    border: 1px solid #C5C5C5;
+    border-radius: 100px;
+    border-radius: none;
+    padding:  21px  63px;
+    margin-bottom: 18px;
+   
+    
+}
+.diver{
+    text-align: center;
+}
+.ber{
+ 
+font-weight: 400;
+font-size: 14px;
+color: #000000;
+background: #FFFFFF;
+border: 1px solid #C5C5C5;
+border-radius: 200px;
+padding: 12px 22px;
+margin-bottom: 7px;
+
+
+}
+.card5{
+    text-align: center;
+    margin-bottom: 81px;
+}
+/* end */
+.row1{
+    text-align: center;
+   
+    }
+
+.never{
+  padding-top: 47px;
+font-weight: 400;
+font-size: 42px;
+text-align: center;
+color: #000000;
+}
+.sign{
+  
+font-weight: 400;
+font-size: 16px;
+text-align: center;
+color: #000000;
+}
+.emil{
+    width: 30%;
+    background: #DCE5E2;
+border: 1px solid #000000;
+border-radius: 54px 0px 0px 54px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height, or 120% */
+
+text-align: center;
+
+color: #000000;
+padding: 16px 32px;
+text-align: left;
+}
+.signups{
+    background: #000000;
+border-radius: 0px 200px 200px 0px;
+
+font-weight: 400;
+font-size: 14px;
+text-align: center;
+color: #FFFFFF;
+padding: 13px 30px;
+}
+.card6{
+    width:935px ;
+    height: 490px;
+    margin: auto;
+    text-align: center;
+    background: #DCE5E2;
+    border-radius: 16px;
+   margin-bottom: 19px;
+}
+.your{
+   padding-bottom: 43px;
+}
+.card7{
+    width: 1440px;
+    height: 378px;
+}
+.section6{
+    background: #F8F9FA;
+    border-radius: 0px;
+    
+    
+}
+.ups{
+    padding-top: 18px;
+  
+font-weight: 400;
+font-size: 16px;
+color: #000000;
+text-align: start;
+}
+.calid{
+    
+padding-top: 55px;
+}
+.alle{
+   
+font-weight: 400;
+font-size: 22px;
+color: #000000;
+padding-top: 44px;
+
+
+
+}
+.photoe{
+  
+font-weight: 400;
+font-size: 17px;
+line-height: 22px;
+color: #000000;
+
+    
+}
+.laptops{
+    font-weight: 400;
+font-size: 17px;
+line-height: 22px;
+color: #000000;
+padding-bottom: 157px;
+
+}
+.boxs{
+    text-align: center;
+}
+
+.section5{
+    padding-top: 68px;
+}
+
+
+
